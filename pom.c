@@ -1,5 +1,6 @@
 include <stdio.h>
 
 void DB(void) {
-  printf ("DB\n");
+  printf ("%s\n", "DB");
+  printf ("%s\n", "murmur");
 }
